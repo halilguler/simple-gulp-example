@@ -1,0 +1,9 @@
+CONSOL
+//////*
+
+****Your Project******
+npm install gulp --save-dev
+
+
+****GLOBAL****
+npm install gulp-cli --global
